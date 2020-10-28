@@ -8,6 +8,6 @@ In this study the method of reinforcement learning is used with the Deep Q-Netwo
 
 ### Environment
 For the environment, I build my own environment using Unreal Engine. The name of the envinroment is Simple Road. This is the preview of the environment
-![Simple Road Environement]()
+![Simple Road Environement](https://github.com/annisanazi/airsimproject/blob/main/env.png)
 
 You can download the environment from [here](https://drive.google.com/drive/folders/1H1uw0oUb90fkZdt7Hqt84SoDFrxWOGP5?usp=sharing)
